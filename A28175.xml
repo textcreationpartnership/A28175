@@ -779,14 +779,18 @@ by Tens, from the Unite place towards the right hand: As in the Table following.
                <p>A Square Number is that which is made and produced of two equal Numbers multiplied together, or elſe of one Number multiplied by it ſelf; as 16 is a Square Number, be<g ref="char:EOLhyphen"/>cauſe
 <pb n="9" facs="tcp:51545:16"/>
 it is produced of 4 by 4, (which are Numbers equal, or one Number multiplied by it ſelf) likewiſe 25, 36, 49, are three Square Numbers, for they are Products of the Multiplica<g ref="char:EOLhyphen"/>tion of two equal Numbers, or of one Number multiplied by it ſelf, as 5 by 5, 6 by 6, and 7 by 7. For the Products may be underſtood by their Unites in a Plane, of ſuch kind as ſhall repreſent the form and figure of a Geometrical Plane, as you ſee here under.</p>
-               <figure>
-                  <head>The Superfice.</head>
-                  <p>4, the ſide of the Square.</p>
-               </figure>
-               <figure>
-                  <head>The Superfice.</head>
-                  <p>5, the ſide of the Square.</p>
-               </figure>
+               <p>
+                  <figure>
+                     <head>The Superfice.</head>
+                     <p>4, the ſide of the Square.</p>
+                  </figure>
+
+
+                  <figure>
+                     <head>The Superfice.</head>
+                     <p>5, the ſide of the Square.</p>
+                  </figure>
+               </p>
                <p>It is evident by the generation of Squares, that you may make a Square of all Numbers given, and that you may ex<g ref="char:EOLhyphen"/>tract the Root of all Squares propoſed; and that likewiſe all Numbers propoſed may be the ſide of ſome Square or ano<g ref="char:EOLhyphen"/>ther.</p>
                <p>There is a Double Root and a Double Square, <hi>viz.</hi> Simple and Compound; The Simple Root is that which hath but one Number, as are 1, 2, 3, 4, 5, 6, 7, 8, and 9; the Squares of which are called Simple Squares. The Compound Root, is that which hath more than one Number, as are 10, 11, 12, 20, 30, <hi>&amp;c.</hi> the Squares of ſuch are called Compound Squares. And before you will extract the Compound Root, you muſt know by heart the nine Simple Roots with their Squares, by means of the following Table.</p>
                <p>
@@ -983,7 +987,13 @@ the Root thereof is 254. By the 4<hi>th</hi> Propoſition of the ſecond, and 20
                <p>
                   <label type="milestone">
                      <seg type="milestoneunit">Obſ. </seg>2</label> The Circumference of every Circle, is underſtood to be divided into 360 Parts, called Degrees; and every one of theſe into 60 other Parts, called Minutes; or into 100 Parts, called Centeſms: But the reaſon of this Diviſion may be demanded, Wherefore into 360, &amp; into no other Number, did the firſt Ar<g ref="char:EOLhyphen"/>tiſts divide every Circumference? I Anſwer, That only Magni<g ref="char:EOLhyphen"/>tude being to be divided into certain parts, the ſame ought to be divided into the leaſt and beſt, for dividing as in equal parts: But ſo it was, that no Number under 360 could be had, as be<g ref="char:EOLhyphen"/>ing diviſible into more equal parts; and likewiſe being a Num<g ref="char:EOLhyphen"/>ber not very troubleſom to the Memory. Therefore not with<g ref="char:EOLhyphen"/>out Cauſe or Reaſon they made choice of that Number before any greater or leſſer.</p>
-               <figure/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obſ. </seg>3</label> From an Arch of the Circumference is taken the Meaſure or Quantity of all Angles; for the Quantity of an Angle, is an Arch or Ark of the Circumference, deſcribed from the An<g ref="char:EOLhyphen"/>gular Point, and contained betwixt the two Lines forming the Angle. As the Arches FG, DE, AC, deſcribed from the Angular Point B: So that ſo many Degrees as are con<g ref="char:EOLhyphen"/>tained in theſe Arches, ſuch is the quantity of the Angle ABC,
+<figure/>
+I ſay all theſe Arches being equal; not according to quantity of extenſion: for certain it is that FG will be leſſer than AC;
+<pb n="23" facs="tcp:51545:23"/>
+but I ſay that they are equal according to the number of Parts, for there are more Parts in the Arch AC than in FG, al<g ref="char:EOLhyphen"/>though the quantity of the one be greater than the quantity of the other; becauſe all Circles deſcribed from the ſame Centre are equal, all being divided into 360 Degrees.</p>
                <p>From hence it follows that every Angle may be meaſured by an Arch of a Circle actually divided; whether it be Semi-circle, Quadrant, or Line of Chords, (the conſtruction of which hereafter followeth); And firſt by a Semi-circle divided into 180 Degrees: Firſt, Lay the Centre of the ſame upon the Angular Point, and the Diameter upon one of the Lines for<g ref="char:EOLhyphen"/>ming the Angle, the Degrees contained between theſe two Lines upon your Inſtrument is the meaſure of your Angle. As in this Example, The Centre of your Semi-circle placed upon the Angular Point A, and the Diameter upon AC, the Arch contained between AB and AC, ſuch is DE, which is the meaſure of the Angle DAE 36 Degrees.</p>
                <figure/>
                <p n="22">22. The meaſure of any Right-lined Angle, may be had by a Line of Chords, which is deſcribed upon a Ruler; which Line is virtually the Arch of a Circle; The Projection whereof is as followeth. Let there be a Quadrant, or fourth part of a Circle, as BAC, divided into 90 Degrees; Firſt, Into three parts, each containing 30 Degrees, by taking the Semi-diameter, as AB, with your Compaſſes; place one foot
@@ -991,7 +1001,12 @@ the Root thereof is 254. By the 4<hi>th</hi> Propoſition of the ſecond, and 20
 in C, and with the ſame wideneſs ſet the other foot in F; ſet again the one foot of your Compaſſes in B, (the Compaſſes not being altered) and with the other take the extent BG: So your Quadrant ſhall be divided into three equal parts, <hi>viz.</hi> CG 30 Degrees, CF 60, and the reſt unto B 90 degrees: Every one of theſe being again ſubdivided into three equal parts; ſo ſhall you have the Quadrant divided into nine parts, or 90 degrees, each part containing ten degrees: and ſo into ſmall parts according to the largeneſs of your Quadrant.</p>
                <figure/>
                <p>The Quadrant being performed and truly divided: you ſhall draw a Line from B to C, which ſhall be the Chord of 90 degrees; again you ſhall place the one foot of your Com<g ref="char:EOLhyphen"/>paſſes at C, and extend the other to 10 degrees; the ſame ex<g ref="char:EOLhyphen"/>tention you ſhall lay off from C to D, upon the Line of Chords; ſtill keeping the one foot of your Compaſſes at C, again extend your Compaſſes to 20 degrees, and lay them off from C to E; and ſo accordingly to all the reſt, till you have finiſhed the diviſion of your Line. Which being performed, ſhall ſerve you to meaſure the quantity of all Right-lined An<g ref="char:EOLhyphen"/>gles, as well as by any Circular Arch; being more portable, and more ready for uſe, than any Circular Inſtrument, as Semi-circle, Quadrant, <hi>&amp;c.</hi> as by the following practice is evident.</p>
-               <figure/>
+               <p n="23">
+                  <pb n="25" facs="tcp:51545:24"/>
+                  <label>The Uſe of the Line of Chords.</label>
+23. Let there be an Angle, as ABC, whoſe quantity is de<g ref="char:EOLhyphen"/>ſired: The ſame is performed by a Line of Chords; if you place the one foot of your Compaſſes at the end of your Line, and the other upon 60 degrees; then the Compaſſes remaining at the ſame wideneſs, place the one foot at B, and draw an Arch as DE; whoſe wideneſs you ſhall take by your Com<g ref="char:EOLhyphen"/>paſſes, and apply the ſame to your Scale upon the Line of Chords, you ſhall have the Quantity of the Angle 36 degrees.
+<figure/>
+But if the Angle be Obtuſe or Blunt, as FBC, extend the Compaſſes upon your Scale to 60 degrees, drawing an Arch from the Angular Point; then firſt take off 90 degrees from your Line of Chords, and place the ſame from E to G, the remainer being taken from G to F, the diſtance whereof is 54 degrees; which two Arches being added together, ſhall give the quantity of the Angle FBC, reckoned 144 degrees. And thus much for finding the quantity of all Right-lined Angles, by the Line of Chords upon your Scale.</p>
             </div>
             <div n="11" type="chapter">
                <pb n="26" facs="tcp:51545:25"/>
@@ -1025,7 +1040,11 @@ in C, and with the ſame wideneſs ſet the other foot in F; ſet again the one 
                   <figure/>
                   <p>Again from the point A, a Perpendicular is raiſed the ſame manner of way; placing one foot of your Compaſſes at A, extend the other above the Line to the point G; and draw from G the Arch IAH, cutting the Line at H; then laying your Ruler by G and H, and where it cutteth the Arch as in I; from A to I draw a Line, ſo ſhall AI be a perpendicular from the end of the Line AB, or from the point A.</p>
                   <p>The ſame may be performed by the Line of Chords, as by the practice is evident.</p>
-                  <figure/>
+                  <p>
+                     <pb n="29" facs="tcp:51545:26"/>
+                     <label>The ſame another way.</label>
+A Perpendicular may be raiſed after this manner; As let the Line be AB; and a Point in the ſame Line given, let be C: place the one foot of the Compaſſes at C, and with the other draw an Arch above a Quadrant, as GED; then place the diſtance of CD from D to E; then placing the one foot at E, draw the Arch GF: then removing your Compaſſes, place the one foot at G, and with the other cut the Arch in F: Laſtly, From F to C, draw a Line FC; ſo ſhall FC be a Perpendicular from the point C. <figure/>
+                  </p>
                </div>
                <div n="4" type="math_problem">
                   <head>Prob. 4.</head>
@@ -1132,7 +1151,8 @@ doth teach. And alſo how to find the Parts of a longer Line, than the Line of M
                   <p>
                      <hi>The ſame another way.</hi>
                   </p>
-                  <figure/>
+                  <p>
+                     <figure/> Let HI be a Line given, to be divided by Extream and Mean Proportion. Upon the end I, erect a Perpendicular, as I K, of the length of half the given Line HI; then draw the ſubtendant ſide HK: That done, ſet KI from K to L; again, ſet HL from H to M; ſo ſhall HI be divided by Extream and Mean Pro<g ref="char:EOLhyphen"/>portion in M: And HM ſhall be the greater Segment, and MI the leſſer.</p>
                </div>
                <div n="13" type="math_problem">
                   <pb n="37" facs="tcp:51545:30"/>
@@ -1175,7 +1195,10 @@ the half of CD is F, and the half of the ſide DE is G; and where they cut one a
                <div n="16" type="math_problem">
                   <head>Prob. 16.</head>
                   <head type="sub">How to reduce the Circumference of a Circle given, into a Right Line.</head>
-                  <figure/>
+                  <p>
+                     <figure/>Let the Circle given  be ABCD. Divide the ſame Circle in four equal parts with the two Diameters BC, and DL, which cut<g ref="char:EOLhyphen"/>teth one another at Right Angles in A; divide AC in the middle in E, through the which draw DI, and from I draw a Perpendicular upon DL, and divide AB in Extream and Mean Proportion at F, (by Problem 12 of this) draw FH, and
+<pb n="40" facs="tcp:51545:32"/>
+parallel to the ſame from B draw BG, which cutteth the pro<g ref="char:EOLhyphen"/>longed Line DL in G; ſo is AG a fourth part of the Cir<g ref="char:EOLhyphen"/>cumference BDCL.</p>
                   <p>The Mean Proportion betwixt DL and AG, the fourth part of the Circumference, giveth the ſide of a Square equal to the Circle.</p>
                   <p>From DE ſubtract the half of AC, there remaineth DK, (which is equal to BF) and is the ſide of a <hi>Decagon</hi> inſcribed in the Circle.</p>
                </div>
@@ -1422,7 +1445,13 @@ There is an Iron Ball whoſe Diameter is 6 Inches, and weigheth 30 <abbr>lb</abb
                   <note place="margin">There is a Difference between Scots and Engliſh Weight, as <hi>So that the Difference between Scots and Engliſh weight is as 8 is to 9; that is to ſay,8</hi> is to <hi>9.</hi>
                   </note> That 8 <abbr>lb</abbr> Scots maketh 9 <abbr>lb</abbr> Engliſh.</p>
                <p>For the firſt Demonſtration, the Diameter DB is 3 ⅘ In<g ref="char:EOLhyphen"/>ches, which is near the Diameter of a Ball of 6 17/20 <abbr>lb</abbr> Scots weight, And near the Diameter of a Ball of 7 11/16 <abbr>lb</abbr> Engliſh weight. And the Diameter DHG is 3 ½ Inches, which is the Diameter of a Ball of 5 <abbr>lb</abbr> 6 ⅛ Ounces very near of Scots weight. And the Diameter of 3 ½ Inches, is near 6 <abbr>lb</abbr> Eng<g ref="char:EOLhyphen"/>liſh weight, not following the Tables of Mr. <hi>Smith,</hi> nor any other that I have ſeen as yet ſet forth; As I intend to De<g ref="char:EOLhyphen"/>monſtrate in its due place.</p>
-               <figure/>
+               <p>
+                  <pb n="52" facs="tcp:51545:38"/>
+                  <label>Objection.</label>
+This Geometrical Deſcription may be ſaid by ſome, That they know better; for Mr. <hi>Hexham</hi> hath deciphered the Bore
+<figure/>
+                  <pb n="53" facs="tcp:51545:38"/>
+of the Peece, and the Ball in another manner: Therefore I will Demonſtrate the Way that Mr. <hi>Hexam</hi> takes to extract the Wind of a Peece, and thereby to find the true Ball.</p>
                <p>
                   <label>Examples.</label>
 Take the juſt Diameter of the Bore of your Peece, which you divide into two equal parts, and draw the Circle ABE; then the Compaſſes at the ſame ſtation, you place one foot in A, and another in B, and draw the Croſs Arches ACB: From C draw a Line through the Centre D to E, and then draw the Line AE: then place one foot of your Compaſſes in E, and draw the Arch AB: then place one foot of your Compaſſes in the Centre D, and extend the other to the Arch F, ſo draw the Circle FG: which he ſaith is the way to find a true Ball.</p>
@@ -1547,17 +1576,31 @@ could not have half the alowed Powder that either of theſe Rules did allow of. 
                <p>
                   <label>Queſtion.</label>
 But ſome may demand what I mean by Fortified Ordnance?</p>
-               <figure>
-                  <head>This is the true Geometricall Demonſtration of the Bores of Ordinance, with the heigth of their Ball from 1<abbr>
-                        <hi rend="sup">lib</hi>
-                     </abbr> to 64<abbr>
-                        <hi rend="sup">lib</hi>
-                     </abbr> Scots weight, And the true Wind which ought to be betwixt the Diameter of the Bore and the Diameter of the Ball. Likewayes of the Engliſh weight of the Ball from 1.2<abbr>
-                        <hi rend="sup">lib.</hi>
-                     </abbr> to 72<abbr>
-                        <hi rend="sup">lib</hi>
-                     </abbr> And their Wind betwixt the Diameter of the Ball, and the Diameter of the Bore. This doth not hold with the Generall Rule that a 1/20 part of the Diameter of the Ball is the Wind for all Guns But if all Ball were Caſt or Turned to a true Roundneſs, then though they did only fitt to goe home, the leſs wind the better.</head>
-               </figure>
+               <p>
+                  <label>Anſwer.</label>
+                  <note place="margin">Curioſity is good, if a man be not taught he cannot be perfect.</note>For their Fortification, know that there are Ordnance of ſeveral Fortifications, as is before ſhown in <hi>pag.</hi> 41. where it is ſufficient to be underſtood: and therefore I ſet the Tables of their Powder here, by their proportions and ſhape, and ſhew how to underſtand the Fortifications of Guns, and alſo what Powder ought to be given to Guns according to their Fortifications: As firſt you ſee the Geometrical Demon<g ref="char:EOLhyphen"/>ſtration
+<pb facs="tcp:51545:41"/>
+                  <figure>
+                     <head>This is the true Geometricall Demonſtration of the Bores of Ordinance, with the heigth of their Ball from 1<abbr>
+                           <hi rend="sup">lib</hi>
+                        </abbr> to 64<abbr>
+                           <hi rend="sup">lib</hi>
+                        </abbr> Scots weight, And the true Wind which ought to be betwixt the Diameter of the Bore and the Diameter of the Ball. Likewayes of the Engliſh weight of the Ball from 1.2<abbr>
+                           <hi rend="sup">lib.</hi>
+                        </abbr> to 72<abbr>
+                           <hi rend="sup">lib</hi>
+                        </abbr> And their Wind betwixt the Diameter of the Ball, and the Diameter of the Bore. This doth not hold with the Generall Rule that a 1/20 part of the Diameter of the Ball is the Wind for all Guns But if all Ball were Caſt or Turned to a true Roundneſs, then though they did only fitt to goe home, the leſs wind the better.</head>
+                  </figure>
+                  <pb n="57" facs="tcp:51545:42"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:51545:42"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="58" facs="tcp:51545:43"/>
+of <hi>Archimedes</hi>'s Proportion in <hi>pag.</hi> 40. how fitly that doth give the true Proportion of all true Bored and true Forti<g ref="char:EOLhyphen"/>fied Iron Ordnance.</p>
                <p>Now to be capable of the ſame Proportion Arithmetically, the Proportion is, as 22 the Circumference is unto 7 the Dia<g ref="char:EOLhyphen"/>meter: So muſt 11 the number of times which the Diameter of the Bore meaſured about her Breech be, to a number ſought for; which by the Work I find to be 3 ½ Diameters of the Bore, which this Peece is of Diameter at the Touch-hole.</p>
                <p>
                   <gap reason="math">
@@ -6598,15 +6641,18 @@ There is a Gun which ſhooteth a Ball of Iron weighing 36 pounds; I demand what 
                <gap reason="duplicate" extent="1 page">
                   <desc>〈1 page duplicate〉</desc>
                </gap>
-               <figure>
-                  <head>This is the Ge<gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap>ſtration of the Diameter of Ball, And the Diameter of the Bores of Ordinance From one <gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap> weight: And as I am informed, commonly uſed in England by which Demon<gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
-                        <desc>〈…〉</desc>
-                     </gap> of the Diameter of the Bore is Sufficient wind for all Guns.</head>
-               </figure>
+               <p>
+                  <pb facs="tcp:51545:68"/>
+                  <figure>
+                     <head>This is the Ge<gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>ſtration of the Diameter of Ball, And the Diameter of the Bores of Ordinance From one <gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> weight: And as I am informed, commonly uſed in England by which Demon<gap reason="illegible: bleedthrough" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of the Diameter of the Bore is Sufficient wind for all Guns.</head>
+                  </figure>
+               </p>
             </div>
             <div n="22" type="chapter">
                <pb n="107" facs="tcp:51545:69"/>
@@ -6762,7 +6808,12 @@ cauſed to be taken down, and buried with ſuch honour as was due to it.</p>
             <div n="30" type="chapter">
                <head>CHAP. XXX. <hi>To know how to make as good a Shot by Night as by Day.</hi>
                </head>
-               <figure/>
+               <p>
+                  <note place="margin">Fire in the Night is terror to an Enemy.</note>AS there is none will deny, that among the many Terrifi<g ref="char:EOLhyphen"/>cations which may be put upon an Enemy, to ſhoot amongſt them by Night is not one of the leaſt of them: But
+<pb facs="tcp:51545:76"/>
+                  <figure/>
+                  <pb n="120" facs="tcp:51545:77"/>
+if you will ſhoot by Night, you muſt provide by Day, and obſerve as followeth.</p>
                <p>Firſt, You are to lay your Peece by day, as is formerly taught, being loaded with Powder and Shot, as if you were to make preſently your execution at the place. <note place="margin">Good Ob<g ref="char:EOLhyphen"/>ſervations if follow<g ref="char:EOLhyphen"/>ed.</note>Then take a Mariners Compaſs, and ſet that on the Breech of the Peece, and looking over the Peece you ſee the Mark, and obſerve how the place bears off you, ſo that in the Night you may know how, and on what Point of the Compaſs the Place bears off you, when you are to give Fire; then take a Line and plum<g ref="char:EOLhyphen"/>met at the Muſle of the Peece, and right over the middle of the Muſle let the Plummet hang to the Platform; ſo you ſhall remark, or make a mark on the Line where it cutteth with the lower edg of the Bore of the Peece at the Muſle; and like<g ref="char:EOLhyphen"/>wiſe remark where the Plummet toucheth the Platform: And for your more aſſurance, you may let the Peece be fired in the day time at the ſame Mark; and as you find that Shot to proſecute, you may proceed as is before-taught, and in the Night you may do good Service.</p>
                <p>
                   <note place="margin">In the Night as by Day.</note>Firſt, Set your Peece as is before ſhown by the Compaſſe, cauſing your Matroſs or Pioneer to traverſe the Peece to your deſire; then go to the Muſle with your Plumb-Line, cauſing them to elevate or abaſe the Metal, till you find the Plumb-Line and Plumb fall in their former ſtations: So in firing that Peece you may do good Service by Night or by Day.</p>
@@ -6780,7 +6831,12 @@ home the Powder in your Peece; and obſerve you put no Wad betwixt the Powder an
                   <note place="margin">
                      <g ref="char:V">Ʋ</g>ncertain to find ex<g ref="char:EOLhyphen"/>act truth in Random Tables.</note>THis task is ſo difficult as there are Proportions of Ord<g ref="char:EOLhyphen"/>nance, yea it will alter by the alteration of Weather; likewiſe if the place lie higher, the Peece ſhall ſhoot farther over a Valley at the ſame Random, than ſhe ſhall from a Valley to a Height; for theſe Reaſons, I have found none that ever made Tables for great Ordnance, that would or could make them good on all Accounts and all Degrees.</p>
                <p>Now the only Rule by which a Gunner may know how many Paces his Peece will ſhoot, in elevating from Degree to Degree, is to take good notice how far ſhe ſhoots Point-Blank, as alſo Horizontal with the Metal; which Diſtance being mar<g ref="char:EOLhyphen"/>ked to be ⅓ part, or a half, or ⅔ parts farther than Point-Blank, then hath he a convenient Proportion to work by, and to find his deſire reaſonably near.</p>
-               <figure/>
+               <p>
+                  <label>Example.</label>There is a Demi-Cannon ſhoots Point-Blank 200 Geome<g ref="char:EOLhyphen"/>trical Paces, and Horizontal with the Metal 400 Paces, this holds proprtion as 2 to 1, the one half leſs: Therefore ſay by the Rule of Three, As 2 is to 1, ſo is 200 to 100 Paces, that this Peece ſhoots farther at every Degrees elevation. Yet not wholly through the Table, for there is a rebating in every Degrees elevation: Now to find this, you ſhall yet di<g ref="char:EOLhyphen"/>vide 100 by 44, and you have 2 3/11: So as 3 times 11 is 33, and 11 is 44; therefore when you deſire to make this Table,
+<pb facs="tcp:51545:78"/>
+                  <figure/>
+                  <pb n="122" facs="tcp:51545:79"/>
+take 2 from 100 there remains 98, which added to 200 makes 298; then take 2 from 98, and there remains 96, which be<g ref="char:EOLhyphen"/>ing added to 298, giveth 394: This is the firſt and ſecond De<g ref="char:EOLhyphen"/>gree elevated; this continues till 35 Degrees elevation, where you have 44; and you have for 35 Degrees elevation 2400 Paces; then the addition is 28, and the rebate of every De<g ref="char:EOLhyphen"/>gree 3; by which you may make this Table following: and in doing ſo with all others you have your deſire.</p>
                <p>
                   <table>
                      <head>
@@ -6922,8 +6978,16 @@ home the Powder in your Peece; and obſerve you put no Wad betwixt the Powder an
                <p n="2">
                   <note place="margin">Concluſi<g ref="char:EOLhyphen"/>ons and Obſervati<g ref="char:EOLhyphen"/>ons done by the Quadrant</note>2. Otherways, if the Thread fall on the parts of <hi>
                      <g ref="char:V">Ʋ</g>mbra Recta,</hi> or Right Shadow, then is the diſtance betwixt the Ob<g ref="char:EOLhyphen"/>ſervers foot and the ground of the thing obſerved, leſs than the Height of the Body obſerved, according as the parts cut off Right Shadow by the Thread is to 100; Therefore uſe the Rule of Proportion, otherwiſe called the Rule of Three, and ſet the parts of Right Shadow in the firſt place, cut by the Thread or Plummet-Line, and the 100 in the ſecond, and the Diſtance you are from the Root, or foot of the Mark, in the third, and the fourth place will ſhew the deſired Height; as you may ſee in the Example following.</p>
-               <figure/>
-               <figure/>
+               <p>
+                  <label>Example.</label>
+Suppoſe the Thread to fall on 25 parts of <hi>
+                     <g ref="char:V">Ʋ</g>mbra Recta,</hi> and the diſtance betwixt your Foot and the Wall be 30 foot: Then ſay, as 25 parts of Right Shadow is to 100; ſo is
+<pb facs="tcp:51545:80"/>
+                  <figure/>
+                  <pb facs="tcp:51545:80"/>
+                  <figure/>
+                  <pb n="124" facs="tcp:51545:81"/>
+30 foot the diſtance given, to 120 foot the Height required: to which you muſt add the length betwixt the Obſervers Eye and the Ground.</p>
                <p n="3">3. But if the Gunner cannot Cipher, then do this; go ſo far back or fore, till you ſee the Mark deſired, and that the Plummet-Line of your Quadrant (being ſtill obſerving) fall on the parts of Right Shadow: And know that if the Line fall on 100, the Diſtance is equal to the Height: If the Line fall on 75 parts, then the Diſtance is three-quarters of the Height; if it fall on 66 ¾ parts, then is the Diſtance ⅔ parts of the Height; if on 50 parts, the half of the Height: if on 33 ⅓ parts, one third part of the Height; and if on 25 parts, one, quarter of the Height; by which you may con<g ref="char:EOLhyphen"/>clude the Height of what you obſerve.</p>
                <p n="4">4. But in obſerving, if the Thread fall in parts of <hi>
                      <g ref="char:V">Ʋ</g>mbra Verſa,</hi> or Contrary Shadow, then know that the Diſtance of the Ground to the Place obſerved, is more than the Height of the ſame: And the Proportion is, as 100 parts is more than the parts cut off the Contrary Shadow; ſo is the Diſtance from the Mark, unto the Height of the thing obſerved.</p>
@@ -7607,7 +7671,15 @@ Diſtance to the place you would lay your Ball at, that you may know by this Tab
                   <label>Now follows the Proportion of the Pattard, and <g ref="char:V">Ʋ</g>ſe thereof with all things belonging thereto.</label>
 The beſt Pattards are made of Copper, to wit, 1/10 part of Braſs: they are made of Iron alſo, ſome more ſome leſs, as the Figures ſheweth: The Pattard A is 12 Inches long, the Diameter at the Breech is 7 ½ Inches, and the Diameter of the Concave is 5 Inches; then the one ſide Metal muſt be 1 ¼ In<g ref="char:EOLhyphen"/>ches thick; ſhe is at the Muſle ½ inch thick, and the Diameter of the Bore at the Mouth is 10 inches, and weigheth 76 ½ <abbr>lb</abbr>.</p>
                <p>There is another Pattard as B, which is 9 inches long; the Metal at the Muſle is ½ inch thick, and by the Touch-hole 1 inch thick; the Diameter of the Bore at the Mouth is 7 inches, and the Bore at the Breech 4 inches.</p>
-               <figure/>
+               <p>To fix your Pattard to do good Service at a Gate, or Caſtle, or other Fort, or Gariſon; you muſt have before the Mouth of the Pattard a good Oaken Plank of about 2 foot in ſquare; this Plank may be banded with Iron, both on the one ſide and on the other, as the 2 Planks D D, both being but one Plank, but the Bands of Iron are on the one ſide croſs the other; the Plank may be 3 or 4 inches thick; the Powder to the Pattard B may be 4 <abbr>lb</abbr>, and the Powder to the Pattard A about 6 ½ <abbr>lb</abbr>; when you have loaded the Pattards, and rammed the Powder home, you ſhall put in the Muſle of the Pattard a Wooden Tamken, which you ſhall beat home with a Wooden Mallet, till it be faſt enough; then you may fill the Chinks with hard Tallow, and melt Pitch or Wax and run round about the Tamken, that the Powder in the Pattard may be preſerved from Water. When you are to apply the Pattard, and make it faſt to a Gate, you muſt firſt bore the Touch-hole thereof, and fill the ſame with ſome Powder mixed with Linſeed-Oil; but a Feuſie may be better, filled with the Compoſition for Granade Feuſies, that it may take time to burn before the Pattard fire, that the Man may remove that made it faſt. To make it faſt, you muſt have two Hack-Bolts, as E, with Scrues at the ends, which are to ſcrue into the Gate, where you have the Plank D, to which the Pattard G is faſt with a Chain by the Ears in the middle, or by a Staple drove in the Gate, to which the Chain is faſt, as you ſee by the Figure G and D, to the Gate F: To
+<pb n="157" facs="tcp:51545:98"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:51545:98"/>
+                  <figure/>
+                  <pb n="158" facs="tcp:51545:99"/>
+carry this Pattard, you muſt have a Wagon with Wheels, as the Figure H: This Wagon muſt be as broad as the Plank be<g ref="char:EOLhyphen"/>fore the Pattard, having in the fore-part three ſharp-pointed Iron Pikes, that when it is run at the Gate it may hold faſt, that the Man or Men may ſtand thereon, and fix their Scrues, to which they muſt make faſt the Plank with the Pattard: Then giving fire to the Feuſie, and removing back the Pattard, having done Execution to expectation, the Parties may enter according to the Commands given.</p>
                <p>While this Work was intended for the Young Gunners In<g ref="char:EOLhyphen"/>ſtruction, I hold it my duty to ſhew you that there is no Fire-Work that can be invented or made for Offenſive Service, but the ſame will and may be made uſe of for Defenſive Service; but ſome may be made for Defenſive Service, which can hard<g ref="char:EOLhyphen"/>ly be uſeful in Offenſive Service, as Barrels for ſmoaking out of a Mine, or Balls, or Bags to burn the Wood, or Rubbiſh caſt in to fill up a Ditch, Powder-pots, and ſuch like.</p>
                <p>
                   <label>Granades to ſhoot out of a Mortar-Peece.</label>
@@ -7775,7 +7847,10 @@ it burns ¼ of an hour; I meaſure my Match again, by which I know how much is b
                   <item>16. Take Salt 8 <abbr>lb</abbr>, Brimſtone 3 <abbr>lb</abbr>, Coals 1 <abbr>lb</abbr>, Sawduſt 1 <abbr>lb</abbr>.</item>
                   <item>17. Take Salt-peter 2 <abbr>lb</abbr>, Powder 2 <abbr>lb</abbr>, Brimſtone 1 ½ <abbr>lb</abbr>; you may uſe it to what you pleaſe.</item>
                </list>
-               <figure/>
+               <p>
+                  <pb facs="tcp:51545:106"/>
+                  <figure/>
+               </p>
                <p>
                   <pb n="172" facs="tcp:51545:107"/>
                   <label>For Powder-Pots, or Stink-Pots.</label>
